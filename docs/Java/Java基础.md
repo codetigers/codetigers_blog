@@ -1,9 +1,3 @@
----
-title: Java基础
-date: 2020-04-26 20:52:11
-tags: [Java]
-categories: [Java]
----
 
 ### 数据类型
 
